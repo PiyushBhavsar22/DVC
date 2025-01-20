@@ -1,7 +1,7 @@
 # DVC Repository Setup and Usage
 
 ## **Introduction**
-Data Version Control (DVC) is a powerful tool for managing and versioning data, models, and machine learning pipelines. This guide provides the basic steps to set up and use DVC in your project.
+Data Version Control (DVC) is a powerful tool for managing and versioning data, models, and machine learning pipelines.
 
 ---
 
